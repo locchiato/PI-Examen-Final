@@ -1,0 +1,102 @@
+[
+  {
+    "id": 0,
+    "ciclista": "Dane Lindhe",
+    "puntaje": 7.8,
+    "marca": "Giant",
+    "rodado": 67,
+    "pesoEnKg": 8.141,
+    "largoEnCm": 90.29,
+    "doppingPositivo": false
+  },
+  {
+    "id": 1,
+    "ciclista": "Maure Benko",
+    "puntaje": 6.29,
+    "marca": "Specialized",
+    "rodado": 64,
+    "pesoEnKg": 9.248,
+    "largoEnCm": 116.17,
+    "doppingPositivo": true
+  },
+  {
+    "id": 2,
+    "ciclista": "Burt Alday",
+    "puntaje": 1.04,
+    "marca": "Giant",
+    "rodado": 62,
+    "pesoEnKg": 7.5,
+    "largoEnCm": 99.36,
+    "doppingPositivo": false
+  },
+  {
+    "id": 3,
+    "ciclista": "Maxy Petraitis",
+    "puntaje": 6.3,
+    "marca": "Giant",
+    "rodado": 68,
+    "pesoEnKg": 8,
+    "largoEnCm": 109.43,
+    "doppingPositivo": false
+  },
+  {
+    "id": 4,
+    "ciclista": "Webb Grinnell",
+    "puntaje": 5.44,
+    "marca": "Orbea",
+    "rodado": 56,
+    "pesoEnKg": 6.901,
+    "largoEnCm": 105.19,
+    "doppingPositivo": false
+  },
+  {
+    "id": 5,
+    "ciclista": "Daria Fetherstone",
+    "puntaje": 0.15,
+    "marca": "Merida",
+    "rodado": 59,
+    "pesoEnKg": 7.569,
+    "largoEnCm": 101.65,
+    "doppingPositivo": false
+  },
+  {
+    "id": 6,
+    "ciclista": "Gay Romayn",
+    "puntaje": 1.33,
+    "marca": "Merida",
+    "rodado": 68,
+    "pesoEnKg": 9.196,
+    "largoEnCm": 110.57,
+    "doppingPositivo": false
+  },
+  {
+    "id": 7,
+    "ciclista": "Benita Fosserd",
+    "puntaje": 9.38,
+    "marca": "Merida",
+    "rodado": 60,
+    "pesoEnKg": 9.86,
+    "largoEnCm": 112.45,
+    "doppingPositivo": false
+  },
+  {
+    "id": 8,
+    "ciclista": "Jo-anne Coker",
+    "puntaje": 6.15,
+    "marca": "Orbea",
+    "rodado": 68,
+    "pesoEnKg": 7.769,
+    "largoEnCm": 103.56,
+    "doppingPositivo": true
+  },
+  {
+    "id": 9,
+    "ciclista": "Heath Ranscome",
+    "puntaje": 1.74,
+    "marca": "Specialized",
+    "rodado": 55,
+    "pesoEnKg": 7.333,
+    "largoEnCm": 93.15,
+    "doppingPositivo": false
+  }
+]
